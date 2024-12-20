@@ -1,0 +1,22 @@
+{
+  "name": "computer-craft-websocket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "cls && node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerry-Todd/Computer-Craft-Websocket-Server.git"
+  },
+  "author": "Jerry Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerry-Todd/Computer-Craft-Websocket-Server/issues"
+  },
+  "homepage": "https://github.com/Jerry-Todd/Computer-Craft-Websocket-Server#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
